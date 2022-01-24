@@ -7,6 +7,7 @@ public class MyClass
 		System.out.println("adding new line ");
 		System.out.println("new line2");
 		System.out.println("new line 3");
+		System.out.println("new line 4");
 	}
 
 }
