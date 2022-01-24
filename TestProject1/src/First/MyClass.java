@@ -6,7 +6,6 @@ public class MyClass
 		System.out.println("first project to practise git");
 		
 		System.out.println("new line2");
-		System.out.println("new line 3");
 	}
 
 }
